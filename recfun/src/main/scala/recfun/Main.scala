@@ -9,6 +9,7 @@ object Main {
       println()
     }
     println(countChange(11,List(1,5)))
+    println(balance(List('(',')','(','(','a','b',')','(',')',')')))
   }
 
   /**
